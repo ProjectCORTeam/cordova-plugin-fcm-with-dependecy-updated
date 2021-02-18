@@ -123,8 +123,7 @@
                 <source url="https://cdn.cocoapods.org/"/>
 			</config>
 			<pods>
-				<pod name="GoogleUtilities/UserDefaults" spec="~> 7.2.2"/>
-				<pod name="Firebase/Messaging" spec="~> 7.4.0"/>
+				<pod name="Firebase/Messaging"/>
 			</pods>
 		</podspec>
 	</platform>
