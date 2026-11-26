@@ -38,7 +38,7 @@
     "ios"
   ],
   "dependencies": {
-    "@angular/core": "^11.0.4",
+    "@angular/core": "^20.3.28",
     "@ionic-native/core": "^5.30.0",
     "rxjs": "^6.6.3"
   },
